@@ -9,10 +9,13 @@ This repository provides the source code, models, and benchmarking pipelines for
 Key Features & Contributions
 ------------
 We think CRISPR-ParaXNet represents a step forward — not just incrementally, but in architectural philosophy.
+
 **Parallel Neural Network Architecture**
 Efficiently processes gRNA–DNA pairs to achieve state-of-the-art performance on multiple evaluation metrics (Pearson, Spearman, MAE, MAPE, Gini). Its lightweight design also offers a lower computational footprint, enabling broader usability.
+
 **Best-in-Class Performance**
 Outperforms all current baselines on ranking tasks, especially for high-cleavage activity regions (top 1% and 5%), which are often of greatest concern in therapeutic settings. Maintains stability even on imbalanced datasets — a common issue in genomic prediction tasks.
+
 **Uncertainty-Aware Predictions with Dropout as Bayesian Approximation (DBA)**
 Empowers downstream decisions with transparent confidence scores, enabling risk-aware interpretations — essential for clinical and experimental genomics.
 
