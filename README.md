@@ -32,3 +32,9 @@ pandas 1.5.3
 scikit-learn > 1.1.3
 
 TensorFlow > 2.13.0
+
+CONTAINS
+------------
+models/CRISPR-ParaXNet.py : Python script for running CRISPR-ParaXNet to predict off-target activities involving indels and mismatches. 
+
+data/crisprSQL.csv : A clean dataset that can be directly accessed by the script. 
