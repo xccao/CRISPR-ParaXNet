@@ -33,6 +33,15 @@ scikit-learn > 1.1.3
 
 TensorFlow > 2.13.0
 
+EXAMPLE USAGE
+------------
+An example of CRISPR-ParaXNet can be run as: 
+
+```
+python CRISPR-ParaXNet.py crisprSQL.csv
+```
+**Make sure to place both the .py and .csv files in the same folder; otherwise, you will encounter a 'file not found' error. **
+
 CONTAINS
 ------------
 models/CRISPR-ParaXNet.py : Python script for running CRISPR-ParaXNet to predict off-target activities involving indels and mismatches. 
