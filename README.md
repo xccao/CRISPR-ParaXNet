@@ -40,7 +40,7 @@ An example of CRISPR-ParaXNet can be run as:
 ```
 python CRISPR-ParaXNet.py crisprSQL.csv
 ```
-**Make sure to place both the .py and .csv files in the same folder; otherwise, you will encounter a 'file not found' error. **
+**Make sure to place both the .py and .csv files in the same folder; otherwise, you will encounter a 'file not found' error.**
 
 CONTAINS
 ------------
