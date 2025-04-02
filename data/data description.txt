@@ -1,0 +1,2 @@
+download crisprSQL source data from http://www.crisprsql.com/download.php 
+Use both the "encoding" and "transformImages" functions to generate input.
